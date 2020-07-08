@@ -22,7 +22,8 @@
     height: 72px;}
 
 
-.third-contai{margin-top: 40px;}
+.third-contaner{margin-top: 40px;
+              }
 
 
 #logos{position: relative;
@@ -40,13 +41,15 @@
 
    .footer-container{background-color: black;
                     height: 400px;
-                    padding: 40px;}
+                    padding: 40px;
+                    border-radius: 10px;}
 
 
  li{list-style-type: none;
+    
    }
 
 .footer-text{color: white;}
 .footer-text li a{color:white}
 
- 
+
